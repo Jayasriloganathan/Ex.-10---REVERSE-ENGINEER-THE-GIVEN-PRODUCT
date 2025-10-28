@@ -40,8 +40,8 @@
 <img width="1910" height="1035" alt="image" src="https://github.com/user-attachments/assets/b5e5b784-2533-4ae5-b570-ae3ead3015d6" />
 
 
-### Name:
-### Register Number:
+### Name:JAYASRI L 
+### Register Number:212224040136
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.

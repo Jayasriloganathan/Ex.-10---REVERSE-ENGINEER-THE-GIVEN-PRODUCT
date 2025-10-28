@@ -32,7 +32,12 @@
 
 ## Input:
 
+![WhatsApp Image 2025-10-28 at 16 29 40_0330d675](https://github.com/user-attachments/assets/aaa6ab20-53d5-4f6f-917a-bdae819ffdee)
+
+
 ### Output:
+
+<img width="1910" height="1035" alt="image" src="https://github.com/user-attachments/assets/b5e5b784-2533-4ae5-b570-ae3ead3015d6" />
 
 
 ### Name:
